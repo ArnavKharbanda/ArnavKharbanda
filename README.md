@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArnavKharbanda
-- 👀 I’m interested in coding, music, fitness.
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
